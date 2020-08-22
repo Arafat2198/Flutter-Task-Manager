@@ -1,6 +1,5 @@
 ## Task-Manager-Using-Flutter-
-Implementing a Useful Task-Manager using Flutter
-A Cross-Platform Mobile Application to learn about Flutter development
+A Cross-Platform Mobile Application to learn about Flutter development,
 We can Add, Remove and Mark Task's as Important 
 
 ![ezgif com-resize](https://user-images.githubusercontent.com/54267475/90953091-3ab65580-e486-11ea-867d-37309e9228bd.jpg)
@@ -11,3 +10,8 @@ We can Also View just the Important Task's using the Info Button at the head,
 
 ![ezgif com-resize (2)](https://user-images.githubusercontent.com/54267475/90953154-9bde2900-e486-11ea-9763-171537cc40df.gif)
 ![ezgif com-resize (3)](https://user-images.githubusercontent.com/54267475/90953158-a8fb1800-e486-11ea-9beb-c5bb6a4df06f.gif)
+
+# Dependencies
+intl: ^0.15.8
+
+outline_material_icons: ^0.1.0
