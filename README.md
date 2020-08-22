@@ -16,9 +16,9 @@ We can Also View just the Important Tasks using the Info Button at the head,
 ![ezgif com-resize (3)](https://user-images.githubusercontent.com/54267475/90953158-a8fb1800-e486-11ea-9beb-c5bb6a4df06f.gif)
 
 ## Dependencies
-Flutter SDK
-intl: ^0.15.8
-outline_material_icons: ^0.1.0
+ Flutter SDK 
+ intl: ^0.15.8
+ outline_material_icons: ^0.1.0
 
 
 ## Getting Started
