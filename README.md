@@ -17,11 +17,11 @@ We can Also View just the Important Tasks using the Info Button at the head,
 
 # Dependencies
 
-Flutter SDK 
+ - Flutter SDK 
 
-intl: ^0.15.8
+ - intl: ^0.15.8
 
-outline_material_icons: ^0.1.0
+ - outline_material_icons: ^0.1.0
 
 
 ## Getting Started
