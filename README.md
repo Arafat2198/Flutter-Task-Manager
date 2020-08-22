@@ -5,7 +5,7 @@ We can Add, Remove nd Mark Task's as Important
 
 ![ezgif com-resize](https://user-images.githubusercontent.com/54267475/90953091-3ab65580-e486-11ea-867d-37309e9228bd.jpg)
 ![ezgif com-resize (1)](https://user-images.githubusercontent.com/54267475/90953097-4bff6200-e486-11ea-94e7-1e7940fb5699.jpg)
-![ezgif com-resize (2)](https://user-images.githubusercontent.com/54267475/90953127-6df8e480-e486-11ea-8747-10ded6467cb2.jpg)
+![1](https://user-images.githubusercontent.com/54267475/90954334-21ff6d00-e491-11ea-98b7-e1b453129782.JPG)
 
 We can Also View just the Important Tasks using the Info Button at the head,
 
