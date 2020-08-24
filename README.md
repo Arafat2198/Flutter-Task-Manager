@@ -1,7 +1,7 @@
 # Task-Manager-Using-Flutter-
 Implementing a Useful Task-Manager using Flutter
 which is a Cross-Platform Mobile Application Framework,
-We can Add, Remove or Mark Task's as Important.
+We can Add, Remove or Mark Task's as Important, just like a normal To-do list App.
 
 ## Dependencies
 
