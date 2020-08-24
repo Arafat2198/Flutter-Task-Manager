@@ -1,9 +1,9 @@
-## Task-Manager-Using-Flutter-
+# Task-Manager-Using-Flutter-
 Implementing a Useful Task-Manager using Flutter
 which is a Cross-Platform Mobile Application Framework,
 We can Add, Remove or Mark Task's as Important.
 
-# Dependencies
+## Dependencies
 
  - Flutter SDK 
 
