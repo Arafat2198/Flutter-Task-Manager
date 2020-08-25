@@ -25,6 +25,7 @@ class _TaskCardState extends State<TaskCard> {
         elevation: 20,
         child: Stack(
           children: [
+            
             Container(
               margin: EdgeInsets.only(left: 300, top: 5, right: 2),
               child: Text(
