@@ -67,6 +67,7 @@ class _TaskCardState extends State<TaskCard> {
                   semanticLabel: 'Text to announce in accessibility modes',
                 ),
               ),
+              
             ),
           ],
         ),
